@@ -1,0 +1,1 @@
+./cacheSim pythoneTests/t10Trace --mem-cyc 100 --bsize 4 --wr-alloc 1 --l1-size 6 --l1-assoc 2 --l1-cyc 10 --l2-size 13 --l2-assoc 5 --l2-cyc 20 --vic-cache 1
